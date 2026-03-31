@@ -14,7 +14,8 @@ description:
 
 _One of my all time favorite quotes, from an outstanding book that I believe everyone on this planet should read._
 
-![Pale Blue Dot](@/assets/images/palebluedot_3.jpg)
+![Pale Blue Dot](@/assets/images/palebluedot.jpg)
+> Seen from about 6 billion kilometers (3.7 billion miles), Earth appears as a tiny dot within deep space: the blueish-white speck almost halfway up the rightmost band of light.
 
 From this distant vantage point, the Earth might not seem of any particular interest. But for us, it's different. Consider again that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar," every "supreme leader," every saint and sinner in the history of our species lived there – on a mote of dust suspended in a sunbeam.
 
@@ -25,3 +26,5 @@ The Earth is the only world known, so far, to harbor life. There is nowhere else
 **Carl Sagan, [Pale Blue Dot: A Vision of the Human Future in Space (1997)](http://www.amazon.com/gp/product/0345376595/ref=as_li_ss_tl?ie=UTF8&tag=fateswarniisl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0345376595)![](images/ir)**
 
 More info on the photo: [http://en.wikipedia.org/wiki/Pale_Blue_Dot](http://en.wikipedia.org/wiki/Pale_Blue_Dot)
+
+Download the image from the NASA site: [https://science.nasa.gov/resource/voyager-pale-blue-dot-download/](https://science.nasa.gov/resource/voyager-pale-blue-dot-download/)
