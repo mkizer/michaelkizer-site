@@ -1,5 +1,5 @@
 ---
-title: Supplemental APA 9 Ball scoresheets
+title: Supplemental APA 9 Ball Scoresheets
 author: Michael Kizer
 pubDatetime: 2014-09-04T15:00:00Z
 # modDatetime: 2026-03-31T14:43:00Z
