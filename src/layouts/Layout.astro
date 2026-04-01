@@ -172,7 +172,7 @@ const structuredData = {
       // Attach medium-zoom to images on initial load and after view transitions
       document.addEventListener("astro:page-load", () => {
         // Find all images but exclude those with the "no-zoom" class or title
-        const images = Array.from(document.querySelectorAll("article img, #main-content img"))
+        const images = Array.from(document.querySelectorAll<HTMLImageElement>("article img, #main-content img"))
           .filter(img => !img.classList.contains("no-zoom") && img.title !== "no-zoom");
           
         if (images.length > 0) {
