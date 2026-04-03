@@ -15,6 +15,8 @@ description:
   A quick overview of how I transformed old WordPress websites to Astro, a more modern framework and approach, using Google's Gemini and Antigravity.
 ---
 
+![WordPress to Cloudflare Pages](@/assets/images/wordpress-to-cloudflare.png "WordPress to Cloudflare Pages")
+
 This personal blog of mine has been running on self-hosted [WordPress](https://wordpress.org/) for more than a decade, pretty much unchanged outside of typical themes, plugins, Wordpress updates, etc. Since I've been diving into various AI tools lately, I decided to explore new options for the personal blog site. Part of the reason was Wordpress itself being a constant treadmill of updates, security patches, overkill for a simple personal blog, and generally just wanting to try something new.
 
 I haven't really been keeping up with the latest and greatest tools in this space for quite some time, so I fired up Google's [Gemini](https://gemini.google.com/) for a chat about options. For my simple needs, the suggestion was to create an [Astro](https://astro.build/) based site, stored in [GitHub](https://github.com/), and hosted on [Cloudflare Pages](https://pages.cloudflare.com/). The end result would be a locally developed and maintained website, deployed as a static highly available site, for no cost. Sounded good to me.
